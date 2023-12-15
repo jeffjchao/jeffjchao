@@ -9,4 +9,4 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/jeffjchao)](https://www.kaggle.com/jeffjchao) 
 --->
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjchao&layout=compact)](https://github.com/jeffjchao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjchao&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
